@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class CoinCalculator {
+public class CoinCalculator {
 
   public ArrayList<Integer> minNumberOfCoins(int[] coins, int value){
     ArrayList<Integer>  results = new ArrayList<Integer>();
