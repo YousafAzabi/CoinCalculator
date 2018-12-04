@@ -1,4 +1,6 @@
 # Coin Calculator
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FYousafAzabi%2FCoinCalculator.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FYousafAzabi%2FCoinCalculator?ref=badge_shield)
+
 
 The user inputs the coins and the value to be presented by the input coins.
 
@@ -24,3 +26,7 @@ And then to run the code
 ```bash
 java Example
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FYousafAzabi%2FCoinCalculator.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FYousafAzabi%2FCoinCalculator?ref=badge_large)
